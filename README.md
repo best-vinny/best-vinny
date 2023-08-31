@@ -1,6 +1,6 @@
 <h1 align="center">Board of European Students of Technology in Vinnytsia</h1>
 
-<h2 align="center">BEST Vinnytsia of IT-Committee</h2>
+<h2 align="center">LBG BEST-Vinnytsia</h2>
 
 <p align="center">
   BEST, Board of European Students of Technology is a constantly growing non-profit and non-political organisation. Since 1989 we provide communication, co-operation and exchange possibilities for students all over Europe. 85 Local BEST Groups (LBGs) in 30 countries are creating a growing, well organised, powerful, young and innovative student network. 
